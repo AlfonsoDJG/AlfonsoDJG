@@ -3,8 +3,8 @@
     <h3>Soy una persona apasionada por la tecnología, las ciencias y las matemáticas, disfruto diariamente de estas disciplinas. 
 Actualmente me encuentro en la busqueda de nuevos horizontes que me permitan crecer y expandirme en el área de la programación.
 <br><br>
-Mi objetivo es seguir creciendo profesionalmente descubriendo nuevas tecnologías en el desarrollo backend así
-mismo afrontar los desafios que surgan día con día.He realizado algunos proyectos como desarrollador Android, tengo un gran interés en formarme como Backend Java </h3>
+Mi objetivo es seguir creciendo profesionalmente descubriendo nuevas tecnologías en el desarrollo movil así
+mismo afrontar los desafios que surgan día con día.He realizado algunos proyectos como desarrollador Android, tengo un gran interés en formarme como Desarrollador movil </h3>
 </div>
 
 ---
